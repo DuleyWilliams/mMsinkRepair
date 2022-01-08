@@ -1,0 +1,43 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [],
+  "requests": [
+    {
+      "description": "Kithcen Sink leaks",
+      "address": "1011 Forever Avenue",
+      "budget": "457.00",
+      "neededBy": "2022-02-02",
+      "id": 1
+    },
+    {
+      "description": "Leaky bathtub faucet",
+      "address": "123 Main Street",
+      "budget": "400",
+      "neededBy": "2022-01-11",
+      "id": 2
+    },
+    {
+      "description": "Aunt sint voluptatem fugit",
+      "address": "2323 Nice Place dr",
+      "budget": "600",
+      "neededBy": "2022-01-11",
+      "id": 3
+    },
+    {
+      "description": "Yumm Robble Robble",
+      "address": "48 Hamburgular Pl",
+      "budget": "100.00",
+      "neededBy": "2022-02-01",
+      "id": 4
+    }
+  ]
+}
